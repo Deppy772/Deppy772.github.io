@@ -1,12 +1,18 @@
 body{
-    background-color: lightblue;
+    background-color: rgb(231, 255, 253);
+    margin: 10px;
 }
 
-.table{
+.tavola{
+    width: 150px;
     color: fuchsia;
     text-align: center;
 }
 
 #puffo{
-    color: green;
+    color: rgb(41, 122, 7);
+}
+
+h2{
+    color: blue;
 }
